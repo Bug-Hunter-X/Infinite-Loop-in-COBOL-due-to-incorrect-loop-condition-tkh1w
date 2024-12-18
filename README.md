@@ -1,0 +1,1 @@
+This repository demonstrates a common but subtle error in COBOL loops.  The provided COBOL program (`bug.cob`) contains a loop with an incorrect termination condition, resulting in an infinite loop.  The solution (`bugSolution.cob`) corrects the condition, showcasing proper loop termination.
